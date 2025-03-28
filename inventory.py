@@ -1,4 +1,4 @@
-# (c) 2025 Full Name
+# (c) 2025 Espinosa,Mossele Fay S. & Ellaga, Angel Mhae G.
 # A program to parse and manage a CSV file.
 
 import os
